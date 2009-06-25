@@ -1,0 +1,6 @@
+AddPageHeaders is a Typolight module that let you add custom tags to
+be inserted in the <head></head> of a page.
+
+Add them in the backend section of any regular page, just like you do
+with layouts backend section.
+
